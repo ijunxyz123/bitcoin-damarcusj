@@ -1,4 +1,4 @@
-<!--
+electrum/gui/qml/components/main.qmlelectrum/gui/qml/qeconfig.pyelectrum/gui/qml/qeswaphelper.pyelectrum/gui/qt/main_window.pyelectrum/submarine_swaps.py<!--
 *** Please remove the following help text before submitting: ***
 
 Pull requests without a rationale and clear improvement may be closed
